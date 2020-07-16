@@ -1,0 +1,26 @@
+{
+  "name": "exercise-instagram-feed-bootstrap",
+  "version": "1.0.0",
+  "description": "Como programador, tienes la tarea de replicar una imagen como un sitio web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breatheco-de/exercise-instagram-feed-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/issues"
+  },
+  "homepage": "https://github.com/breatheco-de/exercise-instagram-feed-bootstrap#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
